@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Kasha-13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kasha-13/Kasha-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Akash  
+- 👀 I’m interested in AI Agents, Neural Networks, Machine Learning Models, Cloud Technologies, and Software Development  
+- 🌱 I’m currently learning AI Agent orchestration and exploring its real-world applications  
+- 💞️ I’m looking to collaborate on projects related to AI, ML, and cloud-based software solutions  
+- 📫 How to reach me: [akash.kanojiya1398@gmail.com]  
